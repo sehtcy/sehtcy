@@ -2,7 +2,7 @@
 
 Striving to be a strong candidate in the cybersecurity field. My Github will consist of projects that will relate to my career interest and something I find either fun or interesting. My goal is to familiarize myself with Github.
 
-## Senior Undergraduate at University
+## University Graduate (B.S.)
 - Major: Computer Science
 - Minor: Cybersecurity
 - Concentration: Cybersecurity
