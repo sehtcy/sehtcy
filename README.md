@@ -19,11 +19,9 @@ I am a recent graduate of Rider University holding a Bachelor's degree in Comput
 ### Connections
 [<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://linkedin.com/in/curryseth)
 [<img align="left" alt="Bluesky" width="30px" style="padding-right:10px;" src="https://vectorseek.com/wp-content/uploads/2024/01/Bluesky-Logo-Vector.svg-.png" />](https://bsky.app/profile/sehtcy.bsky.social)
-
-#
-
 <br />
 
+#
 
 ### Languages and Tools
 
@@ -38,10 +36,9 @@ I am a recent graduate of Rider University holding a Bachelor's degree in Comput
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<br />
 
 #
-
-<br />
 
 ### WIP Workspace
 * [News Automation Bot for Discord](https://github.com/sehtcy/DiscordNews) - A Discord Bot for users to fetch news from a database
