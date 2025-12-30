@@ -25,8 +25,6 @@ I am a recent graduate of Rider University holding a Bachelor's degree in Comput
 
 ### Operating Systems
 
-<img align="left" alt="Microsoft" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303589/office-1-logo.svg" />
-<img align="left" alt="Google" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353811/google-drive.svg" />
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="iOS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
@@ -36,6 +34,8 @@ I am a recent graduate of Rider University holding a Bachelor's degree in Comput
 
 ### Languages and Tools
 
+<img align="left" alt="Microsoft" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303589/office-1-logo.svg" />
+<img align="left" alt="Google" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353811/google-drive.svg" />
 <img align="left" alt="GNS3" width="30px" style="padding-right:10px;" src="https://elpuig.xeill.net/Members/vcarceler/articulos/ubuntu-20-04-en-los-ordenadores-del-instituto/icons/gns3.svg/@@images/ce9fcfc4-97a2-4ddf-b6f0-1a876af3f4be.svg" />
 <img align="left" alt="Wireshark" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
