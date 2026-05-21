@@ -34,4 +34,3 @@ Hey there, if you stumbled across my page via LinkedIn, found me through 3rd par
 | Cybersecurity | Nmap, Wireshark, Cryptography, Sandboxing |
 | Programming   | Visual Studio Code, Python, Bash, Git, GitHub |
 | OS & Software | Microsoft Office, Google Workspace, Windows, Linux, Docker, VirtualBox |
-
